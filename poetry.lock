@@ -1047,14 +1047,14 @@ files = [
 
 [[package]]
 name = "gspread"
-version = "6.1.4"
+version = "6.2.0"
 description = "Google Spreadsheets Python API"
 optional = false
 python-versions = ">=3.8"
 groups = ["main"]
 files = [
-    {file = "gspread-6.1.4-py3-none-any.whl", hash = "sha256:c34781c426031a243ad154952b16f21ac56a5af90687885fbee3d1fba5280dcd"},
-    {file = "gspread-6.1.4.tar.gz", hash = "sha256:b8eec27de7cadb338bb1b9f14a9be168372dee8965c0da32121816b5050ac1de"},
+    {file = "gspread-6.2.0-py3-none-any.whl", hash = "sha256:7fa1a11e1ecacc6c5946fa016be05941baca8540404314f59aec963dd8ae5db3"},
+    {file = "gspread-6.2.0.tar.gz", hash = "sha256:bc3d02d1c39e0b40bfc8035b4fec407aa71a17f343fc81cc7e3f75bfa6555de6"},
 ]
 
 [package.dependencies]
@@ -3926,7 +3926,7 @@ urllib3 = ">=1.25.3,<2.1.0"
 
 [[package]]
 name = "wordlift-sdk"
-version = "0.12.3"
+version = "0.16.0"
 description = ""
 optional = false
 python-versions = ">=3.10, <3.13"
@@ -3948,7 +3948,7 @@ wordlift-client = "^1.52.0"
 type = "git"
 url = "https://github.com/wordlift/python-sdk.git"
 reference = "HEAD"
-resolved_reference = "49c4216c541bfdbe924b360da047f526cd37fd96"
+resolved_reference = "f02b05d0d96edaac4469ff79c3da5e13d6e67bb6"
 
 [[package]]
 name = "yarl"
