@@ -847,14 +847,14 @@ typing = ["typing-extensions (>=4.12.2) ; python_version < \"3.11\""]
 
 [[package]]
 name = "fqdn"
-version = "1.4.0"
-description = "Validate fully-qualified domain names compliant to RFC 1035 and the preferred form in RFC 3686 s. 2."
+version = "1.5.1"
+description = "Validates fully-qualified domain names against RFC 1123, so that they are acceptable to modern bowsers"
 optional = false
-python-versions = "*"
+python-versions = ">=2.7, !=3.0, !=3.1, !=3.2, !=3.3, !=3.4, <4"
 groups = ["main"]
 files = [
-    {file = "fqdn-1.4.0-py3-none-any.whl", hash = "sha256:e935616ae81c9c60a22267593fe8e6af68cecc68549cc71bb9bfbcbbcb383386"},
-    {file = "fqdn-1.4.0.tar.gz", hash = "sha256:30e8f2e685ce87cdace4712fd97c5d09f5e6fa519bbb66e8f188f6a7cb3a5c4e"},
+    {file = "fqdn-1.5.1-py3-none-any.whl", hash = "sha256:3a179af3761e4df6eb2e026ff9e1a3033d3587bf980a0b1b2e1e5d08d7358014"},
+    {file = "fqdn-1.5.1.tar.gz", hash = "sha256:105ed3677e767fb5ca086a0c1f4bb66ebc3c100be518f0e0d755d9eae164d89f"},
 ]
 
 [[package]]
@@ -3926,7 +3926,7 @@ urllib3 = ">=1.25.3,<2.1.0"
 
 [[package]]
 name = "wordlift-sdk"
-version = "0.11.0"
+version = "0.12.3"
 description = ""
 optional = false
 python-versions = ">=3.10, <3.13"
@@ -3948,7 +3948,7 @@ wordlift-client = "^1.52.0"
 type = "git"
 url = "https://github.com/wordlift/python-sdk.git"
 reference = "HEAD"
-resolved_reference = "fb66a72662f4a463bcd6dae3938a20d39811f1fc"
+resolved_reference = "49c4216c541bfdbe924b360da047f526cd37fd96"
 
 [[package]]
 name = "yarl"
@@ -4105,4 +4105,4 @@ testing = ["coverage[toml]", "zope.event", "zope.testing"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12,<3.13"
-content-hash = "6c12d7144065336130afe07038c8ac7b6738e9400e91ef8de1a56c9c17ba4c7e"
+content-hash = "597bbfb60c8c1833aa223d37183280ac1796eae998e58458843d57fc9663f889"
