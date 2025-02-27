@@ -1,0 +1,25 @@
+[project]
+name = "onboarding-notebook"
+version = "0.1.0"
+description = "A Getting Started notebook to jumpstart your Graph with WordLift"
+authors = [
+    {name = "David Riccitelli",email = "david@wordlift.io"}
+]
+license = {text = "Apache-2.0"}
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "advertools (>=0.16.4,<0.17.0)",
+    "notebook (>=7.3.2,<8.0.0)",
+    "wordlift-client (>=1.75.0,<2.0.0)",
+    "tqdm (>=4.67.1,<5.0.0)",
+    "wordlift-sdk @ git+https://github.com/wordlift/python-sdk.git",
+    "gql[aiohttp] (>=3.5.1,<4.0.0)",
+    "beautifulsoup4 (>=4.13.3,<5.0.0)",
+    "rdflib (>=7.1.3,<8.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
