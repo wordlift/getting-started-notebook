@@ -1,5 +1,5 @@
 [project]
-name = "onboarding-notebook"
+name = "getting-started-notebook"
 version = "0.1.0"
 description = "A Getting Started notebook to jumpstart your Graph with WordLift"
 authors = [

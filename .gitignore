@@ -1,7 +1,7 @@
 *
 
 !.gitignore
-!onboarding_notebook.ipynb
+!getting_started_notebook.ipynb
 !pyproject.toml
 !poetry.lock
 !README.md
