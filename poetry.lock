@@ -3940,7 +3940,7 @@ urllib3 = ">=1.25.3,<2.1.0"
 
 [[package]]
 name = "wordlift-sdk"
-version = "0.16.1"
+version = "0.16.2"
 description = ""
 optional = false
 python-versions = ">=3.10, <3.13"
@@ -3962,7 +3962,7 @@ wordlift-client = "^1.52.0"
 type = "git"
 url = "https://github.com/wordlift/python-sdk.git"
 reference = "HEAD"
-resolved_reference = "05bf2b7766578e3fcaad1273030dacb6ae0553d4"
+resolved_reference = "367dcdde04f4d358d76a6c2028f8f53d0b7e758f"
 
 [[package]]
 name = "yarl"
