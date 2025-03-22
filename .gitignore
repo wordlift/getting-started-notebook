@@ -2,7 +2,7 @@
 
 !.gitignore
 !getting_started_notebook.ipynb
-!internal_links.ipynb
+!create_internal_links.ipynb
 !pyproject.toml
 !poetry.lock
 !README.md
