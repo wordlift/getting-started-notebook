@@ -3,6 +3,7 @@
 !.gitignore
 !getting_started_notebook.ipynb
 !create_internal_links.ipynb
+!load_google_search_console_data.ipynb
 !pyproject.toml
 !poetry.lock
 !README.md
