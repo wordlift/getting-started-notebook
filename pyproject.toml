@@ -17,7 +17,9 @@ dependencies = [
     "gql[aiohttp] (>=3.5.1,<4.0.0)",
     "beautifulsoup4 (>=4.13.3,<5.0.0)",
     "rdflib (>=7.1.3,<8.0.0)",
-    "tenacity (>=9.0.0,<10.0.0)"
+    "tenacity (>=9.0.0,<10.0.0)",
+    "pycountry (>=24.6.1,<25.0.0)",
+    "jupyterlab (>=4.3.6,<5.0.0)"
 ]
 
 [tool.poetry]
