@@ -1,6 +1,6 @@
 [project]
 name = "getting-started-notebook"
-version = "3.2.1"
+version = "3.2.2"
 description = "A Getting Started notebook to jumpstart your Graph with WordLift"
 authors = [
     { name = "David Riccitelli", email = "david@wordlift.io" }
