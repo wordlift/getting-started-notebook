@@ -7,5 +7,6 @@
 !pyproject.toml
 !poetry.lock
 !README.md
+!app/samples/
 !config/sample.py
 !docs/
