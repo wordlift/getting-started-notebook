@@ -3,7 +3,7 @@
 
 This repository has been deprecated. Please use the newer KG Build Notebook Template instead:
 
-https://github.com/wordlift/kg-build-notebook-template/blob/74b8cb4bf9985d9e8e250791b31698a7bdaf817e/README.md
+https://github.com/wordlift/kg-build-notebook-template/blob/main/README.md
 
 This project remains available for reference, but it will not receive further updates. The KG Build Notebook Template is the maintained, recommended starting point for importing web pages into a WordLift knowledge graph using the WordLift Python SDK.
 
